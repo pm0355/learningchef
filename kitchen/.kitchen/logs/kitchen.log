@@ -1,0 +1,3 @@
+I, [2017-05-27T21:52:34.389674 #4225]  INFO -- Kitchen: -----> Starting Kitchen (v1.16.0)
+I, [2017-05-27T21:52:34.675374 #4225]  INFO -- Kitchen: -----> Creating <default-centos65>...
+I, [2017-05-27T21:56:54.322973 #4225]  INFO -- Kitchen: -----> Kitchen is finished. (4m19.93s)
